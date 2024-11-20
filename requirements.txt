@@ -1,0 +1,7 @@
+langchain==0.0.331
+openai==0.28.1
+pandas
+numpy
+load_dotenv
+uvicorn
+fastapi
